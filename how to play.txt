@@ -1,0 +1,19 @@
+<-----------Steps for Run this game---------------->
+----> OPEN VS CODE
+---->Open game folder.
+---->may be ek error aayega sayad pygame module install karne ke liye
+---->toh terminal me pip install karke pygame install kar lena
+
+<-----------Steps for Run this game---------------->
+----> Press W for upar move karne ke liye
+----> Press S for niche move karne ke liye
+----> Press A for left move kare ke liye
+----> Press D  for right move karne ke liye
+
+************ Movement ke liye mouse
+************ Aur shoot ke liye double click aur double tap on trackpad
+
+
+
+
+
